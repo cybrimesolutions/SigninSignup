@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="buttonbg">#f76a8c</color>
+
+
+    <color name="bg_gradianone">#ff9a9e</color>
+    <color name="bg_gradiantwo">#fad0c4</color>
+
+</resources>
